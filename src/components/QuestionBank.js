@@ -31,6 +31,7 @@ const qBank = [
 		question: "Now that you are an expert, choose the strongest password from this list:",
 		options: ["Monkey2", "M0nk3y1", "ThEM(12)nkEy~Eats@BAnEnahs", "Th3 m0nk3y 3475 b4n4n4s"],
 		answer: "ThEM(12)nkEy~Eats@BAnEnahs"
-	},]
+	},
+]
 
 export default qBank;
