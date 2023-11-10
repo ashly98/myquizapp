@@ -2,10 +2,6 @@
 
 This is a basic quiz application built using React. The app allows users to answer multiple-choice questions and provides instant feedback on their answers. It's a simple project aimed at showcasing foundational concepts in React.
 
-## Demo
-
-You can check out the live demo of the app [here](insert_demo_link).
-
 ## Features
 
 - User-friendly interface with a clean design
