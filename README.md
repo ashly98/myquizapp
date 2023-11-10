@@ -34,6 +34,4 @@ Upon launching the app, users will be presented with a series of multiple-choice
 
 Contributions to the project are welcome! If you have any suggestions or improvements, please feel free to submit a pull request.
 
-## License
 
-This project is licensed under the [MIT License](insert_license_link).
